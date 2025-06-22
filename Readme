@@ -1,0 +1,34 @@
+# YouTube Electron App 🎬
+
+A desktop-like YouTube wrapper app built with Electron.js. It provides an app-style experience for YouTube, bypasses browser-level filters (like CleanBrowsing), and opens without a visible terminal window.
+
+---
+
+## 🚀 Features
+
+- Runs YouTube as a standalone desktop app
+- Login handled via default browser (resolves DNS filter login issues)
+- No command prompt window using `.vbs` launcher
+- Silent startup
+- Looks and feels like the real YouTube
+
+---
+
+## 🛠 Tech Stack
+
+- [Electron.js](https://www.electronjs.org/)
+- Custom `.bat` and `.vbs` scripting for smoother UX
+
+---
+
+## 📂 How to Use
+
+```bash
+# Install dependencies
+npm install
+
+# To run the app (debug mode)
+npm start
+
+# OR launch silently (no CMD pop-up)
+Double-click `start.bat`

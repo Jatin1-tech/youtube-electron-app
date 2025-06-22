@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+npm-debug.log*
+
+# VS Code settings
+.vscode/
+
+# macOS & Windows
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.exe
+*.vbs
+*.bat
+
+# Environment files
+.env
