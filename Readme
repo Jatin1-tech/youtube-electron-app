@@ -1,6 +1,9 @@
 # YouTube Desktop App 🎬
 
-A sleek desktop YouTube wrapper built with Electron.js that bypasses DNS-level restrictions and provides a native app experience. it is created to use when you use any other dns on your main browser and doesn't want to intrupt your youtube experience for windows. Hope you would like this proj.
+A sleek desktop YouTube wrapper built with Electron.js that bypasses DNS-level restrictions and provides a native app experience.
+
+❓ Why I Made This
+YouTube isn’t available as a native app on the Windows store. I use DNS filters for privacy/safety, but they restrict YouTube when applied to the browser. So I made this app using Electron to run YouTube as its own standalone desktop experience — DNS-free, smooth, and silent.
 
 ![YouTube Desktop App](https://img.shields.io/badge/Electron-28.2.2-blue?logo=electron)
 ![License](https://img.shields.io/badge/license-MIT-green)
